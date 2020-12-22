@@ -14,7 +14,7 @@ I am an avid learner of everything possible under the sky (and beyond) :)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsebastian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://www.devsebastian.netlify.com/
+[website]: https://devsebastian.netlify.com/
 [twitter]: https://twitter.com/idevsebastian
 [instagram]: https://www.instagram.com/devsebastian
 [linkedin]: https://www.linkedin.com/in/devsebastian
