@@ -15,7 +15,7 @@ I worked at NCFlexE, IIT Kanpur for about 6 months as a software engineer intern
 ❣ Do what you love and love what you do :) <br/>
 
 ## Get in touch
-Personal Site: https://devsebastian.netlify.com/ <br/>
+Personal Site: https://www.devsebastian.me/ <br/>
 Instagram: https://www.instagram.com/devsebastian <br/>
 linkedin: https://www.linkedin.com/in/devsebastian <br/>
 Medium: https://medium.com/@devsebastian <br/>
