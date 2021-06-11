@@ -9,7 +9,7 @@
 # Dev Sebastian—@devsebastian
 Hi there 👋 I am Dev—an avid learner of everything possible under the sky (and beyond)
 
-Selected as Student Developer in Google Summer of Code'21, under Catrobat. I worked at NCFlexE, IIT Kanpur for about 6 months as a software engineer intern till December last year. I am now heading the Android Development department of DSC, MSIT. I'm a huge fan of open source and have worked on many open source projects in github as well as other platforms! an aspiring learner of everything 🌏
+Selected as Student Developer in Google Summer of Code'21, under Catrobat. I worked at NCFlexE, IIT Kanpur for about 6 months as a software engineer intern till December last year. now heading the Android Development department of DSC, MSIT. I'm a huge fan of open source and have worked on many open source projects in github as well as other platforms! an aspiring learner of everything 🌏
 
 ## My Values
 🎂 Expression and authentic self <br/>
