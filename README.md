@@ -9,7 +9,7 @@
 # Dev Sebastian—@devsebastian
 Hi there 👋 I am Dev—an avid learner of everything possible under the sky (and beyond)
 
-* Incomming SDE intern at [@HackerRank](https://www.hackerrank.com/)
+* Software Engineer at [@HackerRank](https://www.hackerrank.com/)
 * selected as student developer in **Google Summer of Code'21**, under [@Catrobat](https://github.com/catrobat). 
 * worked at [National Center for Flexible Electronics, IIT Kanpur](http://www.ncflexe.in/) for more than 6 months as a software engineer intern. 
 * headed the Android Development department of DSC, MSIT. 
